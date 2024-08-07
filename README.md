@@ -1,0 +1,8 @@
+- basics of project work
+- roles of actors and stakeholders in various stages of project
+- project methods, project breakdown structure and stages
+- breakdown of tasks
+- estimation of work load and costs
+- costs, risk assessment and management
+- agile project vs. traditional project
+- project monitoring and control
